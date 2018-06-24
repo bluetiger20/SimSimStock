@@ -1,1 +1,20 @@
 c:\users\김민수\documents\visual studio 2012\Projects\KiwoomAPITest\KiwoomAPITest\bin\Debug\KiwoomAPITest.exe.config
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\bin\Debug\KiwoomAPITest.exe.config
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\KiwoomAPITest.csproj.ResolveComReference.cache
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\MainWindow.baml
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\MainWindow.g.cs
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\App.g.cs
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\KiwoomAPITest_MarkupCompile.cache
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\KiwoomAPITest.g.resources
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\KiwoomAPITest.Properties.Resources.resources
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\KiwoomAPITest.csproj.GenerateResource.Cache
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\bin\Debug\KiwoomAPITest.exe
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\bin\Debug\KiwoomAPITest.pdb
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\KiwoomAPITest.exe
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\KiwoomAPITest.pdb
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\bin\Debug\KHAxLib.dll
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\bin\Debug\KHAxLib.pdb
+C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KiwoomAPITest\obj\Debug\KiwoomAPITest.csprojResolveAssemblyReference.cache

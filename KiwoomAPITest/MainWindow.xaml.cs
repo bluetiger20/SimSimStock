@@ -12,17 +12,38 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using KHOpenAPILib;
 
 namespace KiwoomAPITest
 {
-    /// <summary>
-    /// MainWindow.xaml에 대한 상호 작용 논리
-    /// </summary>
+// 포팅 하는 법 참조 : https://tech.sangron.com/archives/84
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            System.Windows.Forms.Integration.WindowsFormsHost host =
+                new System.Windows.Forms.Integration.WindowsFormsHost();
+            KHAxLib.KHAxControl khAxCtr = new KHAxLib.KHAxControl();
+            host.Child = khAxCtr;
+            this.grid1.Children.Add(host);
+
+            if (khAxCtr.CommConnect() == 0)
+            {
+                tb1.Text = "Success";
+            }
+            else
+            {
+                tb1.Text = "Fail";
+            }
+
+
+
         }
     }
 }

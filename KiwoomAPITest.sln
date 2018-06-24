@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiwoomAPITest", "KiwoomAPITest\KiwoomAPITest.csproj", "{111CC8C7-D021-4C63-A86A-8E1302A6E36D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHAxLib", "KHAxLib\KHAxLib.csproj", "{634F0566-08F4-4A6C-BCD5-4E0111B87031}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{111CC8C7-D021-4C63-A86A-8E1302A6E36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{111CC8C7-D021-4C63-A86A-8E1302A6E36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{111CC8C7-D021-4C63-A86A-8E1302A6E36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634F0566-08F4-4A6C-BCD5-4E0111B87031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634F0566-08F4-4A6C-BCD5-4E0111B87031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634F0566-08F4-4A6C-BCD5-4E0111B87031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634F0566-08F4-4A6C-BCD5-4E0111B87031}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
