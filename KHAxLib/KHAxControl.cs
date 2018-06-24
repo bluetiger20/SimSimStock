@@ -21,5 +21,9 @@ namespace KHAxLib
         {
             return axKHOpenAPI1.CommConnect();
         }
+        public long GetMasterListedStockCnt(){
+            return axKHOpenAPI1.GetMasterListedStockCnt("000810");
+        }
+
     }
 }

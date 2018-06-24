@@ -19,6 +19,7 @@ namespace KiwoomAPITest
 // 포팅 하는 법 참조 : https://tech.sangron.com/archives/84
     public partial class MainWindow : Window
     {
+        KHAxLib.KHAxControl khAxCtr = null;
         public MainWindow()
         {
             InitializeComponent();
@@ -29,7 +30,7 @@ namespace KiwoomAPITest
         {
             System.Windows.Forms.Integration.WindowsFormsHost host =
                 new System.Windows.Forms.Integration.WindowsFormsHost();
-            KHAxLib.KHAxControl khAxCtr = new KHAxLib.KHAxControl();
+            khAxCtr = new KHAxLib.KHAxControl();
             host.Child = khAxCtr;
             this.grid1.Children.Add(host);
 
@@ -44,6 +45,11 @@ namespace KiwoomAPITest
 
 
 
+        }
+
+        private void btn1_Click(object sender, RoutedEventArgs e)
+        {
+            tb1.Text = khAxCtr.GetMasterListedStockCnt().ToString();
         }
     }
 }

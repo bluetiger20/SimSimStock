@@ -8,6 +8,9 @@
 
             </Grid>
             <TextBlock Name="tb1">Success</TextBlock>
+            <Button Name="btn1" Click="btn1_Click">GetMasterListedStockCnt</Button>
+            
+            
         </StackPanel>
 
     </Grid>
