@@ -1,0 +1,1 @@
+c:\users\김민수\documents\visual studio 2012\Projects\KiwoomAPITest\KiwoomAPITest\bin\Debug\KiwoomAPITest.exe.config
