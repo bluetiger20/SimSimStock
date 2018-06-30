@@ -10,3 +10,16 @@ C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KHAxLib\obj\Debug\KHAxL
 C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KHAxLib\obj\Debug\KHAxLib.csproj.GenerateResource.Cache
 C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KHAxLib\obj\Debug\KHAxLib.dll
 C:\Users\김민수\Documents\git_workspace\KiwoomAPITest\KHAxLib\obj\Debug\KHAxLib.pdb
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\obj\Debug\KHAxLib.csprojResolveAssemblyReference.cache
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\obj\Debug\KHAxLib.csproj.ResolveComReference.cache
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\obj\Debug\KHAxLib.KHAxControl.resources
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\obj\Debug\KHAxLib.csproj.GenerateResource.cache
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\obj\Debug\KHAxLib.csproj.CoreCompileInputs.cache
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\obj\Debug\KHAxLib.dll
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\obj\Debug\KHAxLib.pdb
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\bin\Debug\KHAxLib.dll
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\bin\Debug\KHAxLib.pdb
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\Mason\Desktop\Mason\work\git_workspace\SimSimStock\KHAxLib\obj\Debug\AxInterop.KHOpenAPILib.dll

@@ -1,0 +1,15 @@
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\bin\Debug\SimSimStock.exe.config
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\bin\Debug\SimSimStock.exe
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\bin\Debug\SimSimStock.pdb
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\obj\Debug\SimSimStock.csprojResolveAssemblyReference.cache
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\obj\Debug\SimSimStock.csproj.ResolveComReference.cache
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\obj\Debug\SimSimStock.Form1.resources
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\obj\Debug\SimSimStock.Properties.Resources.resources
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\obj\Debug\SimSimStock.csproj.GenerateResource.cache
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\obj\Debug\SimSimStock.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\obj\Debug\SimSimStock.exe
+C:\Users\Mason\source\repos\SimSimStock\SimSimStock\obj\Debug\SimSimStock.pdb
